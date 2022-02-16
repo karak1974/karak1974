@@ -75,6 +75,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
 
+&emsp;
 <br><br><br><br>
 <hr>
 

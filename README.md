@@ -2,10 +2,6 @@
 <h3 align="center">Hobby coder/hacker, high school student</h3>
 <h3 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h3>
 
-- Working on [Flag Submit system](https://github.com/karak1974/flag_submit_system)
-
-- Learning **Go, C, Java**
-
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -38,9 +34,26 @@
      &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
     &emsp;
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=Vim&logoColor=white"></a>
+    &emsp;
     &emsp;
     
 </p>
+
+ ### 👉 IoT
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-1A979D?style=for-the-badge&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Esp32" src="https://img.shields.io/badge/ESP32-D7352B?style=for-the-badge&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Attiny85" src="https://img.shields.io/badge/Attiny85-0000A0?style=for-the-badge&logoColor=white"></a>
+    &emsp;
+    &emsp;
+    
+</p>
+
 
 ### Stats
 <hr>
@@ -50,7 +63,7 @@
 <p>&nbsp;
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
-<br><br><br>
+&emsp;
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karak1974&theme=onedark" alt="karak1974" /></a>
 </p>

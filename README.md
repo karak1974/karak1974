@@ -1,5 +1,5 @@
-<h2 align="center">Hobby coder/hacker, high school student</h2>
-<h2 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h2>
+<h1 align="center">Hobby coder/hacker, high school student</h1>
+<h3 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h3>
 
 ### Programming languages
 
@@ -62,8 +62,8 @@
 <p>&nbsp;
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
-&emsp;
-&emsp;
+
+<br><br><br><br>
 <hr>
 
 <h3 align="center">Contacts</h3>

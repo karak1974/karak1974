@@ -37,8 +37,6 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
     &emsp;
     
@@ -52,6 +50,7 @@
 <p>&nbsp;
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
+<br><br><br>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karak1974&theme=onedark" alt="karak1974" /></a>
 </p>

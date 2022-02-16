@@ -69,13 +69,11 @@
 ### Stats
 <p align="center">
 <a href="https://github.com/karak1974">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact"/>
 </a>
 </p>
-
-&emsp;
-<br><br><br><br>
+<br><br>
 
 <p align="center">
 <a href="https://twitter.com/wolfy_42" target="blank">

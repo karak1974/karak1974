@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm WoLfY</h1>
-<h3 align="center">Hobby coder/hacker, high school student</h3>
-<h3 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h3>
+<h2 align="center">Hobby coder/hacker, high school student</h2>
+<h2 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h2>
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="left"> 
 <a href="https://go.dev/">
@@ -22,7 +21,7 @@
 </a>
 </p>
 
- ### 👉 Software & Tools
+ ### Software & Tools
  
 <p>
   &emsp;
@@ -40,7 +39,7 @@
     
 </p>
 
- ### 👉 IoT
+ ### IoT
  
 <p>
   &emsp;
@@ -64,11 +63,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
 &emsp;
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karak1974&theme=onedark" alt="karak1974" /></a>
-</p>
-
-<br><br><br><br><br>
+&emsp;
 <hr>
 
 <h3 align="center">Contacts</h3>

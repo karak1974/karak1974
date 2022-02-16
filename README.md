@@ -12,7 +12,7 @@
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact" alt="karak1974" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="karak1974" /></p>
-</hr>
+</hr><br><br><br>
 
 <h3 align="center">Contacts</h3>
 <p align="center">

@@ -74,13 +74,13 @@
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
+<hr>
 
 &emsp;
 <br><br><br><br>
-<hr>
 
-<p align="center">
 <h3 align="center">Contacts</h3>
+<p align="center">
 <a href="https://twitter.com/wolfy_42" target="blank">
     <img src="https://img.shields.io/badge/Twitter-00AAEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"/>
 </a>

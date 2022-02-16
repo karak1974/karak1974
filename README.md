@@ -67,19 +67,16 @@
 
 
 ### Stats
-<hr>
-<p>
-    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact" alt="ovi" />
+<p align="center">
+<a href="https://github.com/karak1974">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark"/>
+</a>
 </p>
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
-</p>
-<hr>
 
 &emsp;
 <br><br><br><br>
 
-<h3 align="center">Contacts</h3>
 <p align="center">
 <a href="https://twitter.com/wolfy_42" target="blank">
     <img src="https://img.shields.io/badge/Twitter-00AAEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"/>

@@ -19,6 +19,18 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img alt="C" src="https://img.shields.io/badge/Clang-A9BACD?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
+&emsp;
+<a href="https://html.com/">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+&emsp;
+<a href="https://www.javascript.com/">
+    <img alt="JS5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
 </p>
 
  ### Software & Tools
@@ -59,7 +71,7 @@
 <p>
     <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact" alt="ovi" />
 </p>
-<p>&nbsp;
+<p>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark" alt="ovi" width="410" />
 </p>
 

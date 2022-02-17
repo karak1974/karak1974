@@ -1,6 +1,8 @@
 <h1 align="center">Hobby coder/hacker, high school student</h1>
 <h3 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h3>
 
+<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white">
+
 ### Programming languages
 
 <p align="left"> 

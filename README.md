@@ -56,12 +56,14 @@
  ### IoT
  
 <p>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-1A979D?style=for-the-badge&logoColor=white"></a>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Esp32" src="https://img.shields.io/badge/ESP32-D7352B?style=for-the-badge&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Attiny85" src="https://img.shields.io/badge/Attiny85-0000A0?style=for-the-badge&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C7053D?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
     &emsp;
     &emsp;
     

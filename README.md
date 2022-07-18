@@ -1,7 +1,11 @@
 <h1 align="center">Hobby coder/hacker, high school student</h1>
 <h3 align="center"><a href="https://wolfy.me" target="blank">www.wolfy.me</a></h3>
 
+<h3 align="center">If you want to meet me go to any IT conference in Hungary and search for a 17yo Discord mod.</h3>  
+
+<a href="https://artixlinux.org/">
 <img alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
+</a>  
 
 ### Programming languages
 
@@ -39,15 +43,23 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="https://www.linux.org/">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    <a href="https://www.postman.com/">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=Vim&logoColor=white"></a>
+    <a href="https://www.vim.org/">
+    <img alt="Vim" src="https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=Vim&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.dagger.io/">
+    <img alt="Docker" src="https://img.shields.io/badge/Dagger-4064FC?style=for-the-badge&logo=dagger&logoColor=white"></a>
     &emsp;
     &emsp;
     
@@ -57,13 +69,20 @@
  
 <p>
     &emsp;
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-1A979D?style=for-the-badge&logoColor=white"></a>
+    <a href="https://www.arduino.cc/">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-1A979D?style=for-the-badge&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Esp32" src="https://img.shields.io/badge/ESP32-D7352B?style=for-the-badge&logoColor=white"></a>
+    <a href="https://www.espressif.com/en/products/socs/esp32">
+    <img alt="Esp32" src="https://img.shields.io/badge/ESP32-D7352B?style=for-the-badge&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Attiny85" src="https://img.shields.io/badge/Attiny85-0000A0?style=for-the-badge&logoColor=white"></a>
+    <a href="https://onion.io/omega2/">
+    <img alt="Omega2" src="https://img.shields.io/badge/Omega2-7D4053?style=for-the-badge&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C7053D?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
+    <a href="https://www.microchip.com/en-us/product/ATtiny85">
+    <img alt="Attiny85" src="https://img.shields.io/badge/Attiny85-0000A0?style=for-the-badge&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.raspberrypi.com/">
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C7053D?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
     &emsp;
     &emsp;
     

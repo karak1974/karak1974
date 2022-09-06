@@ -18,8 +18,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3671A3?style=for-the-badge&logo=python&logoColor=yellow"/>
 </a>
 &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-D60023?style=for-the-badge&logo=java&logoColor=white"/>
+<a href="https://www.perl.org/">
+    <img alt="Perl" src="https://img.shields.io/badge/Perl-41436D?style=for-the-badge&logo=perl&logoColor=white"/>
 </a>
 &emsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -88,11 +88,8 @@
     
 </p>
 
-
-### Stats
 <p align="center">
 <a href="https://github.com/karak1974">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karak1974&show_icons=true&locale=en&theme=onedark"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karak1974&theme=onedark&layout=compact"/>
 </a>
 </p>

@@ -33,10 +33,6 @@
 <a href="https://www.javascript.com/">
     <img alt="JS5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
-&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
 </p>
 
  ### Software & Tools

@@ -95,7 +95,7 @@
 <a href="https://twitter.com/wolfy_42" target="blank">
     <img src="https://img.shields.io/badge/Twitter-00AAEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"/>
 </a>
-<a href="https://discords.com/bio/p/wolfylink" target="blank">
+<a href="https://discord.com/users/511219299193716737" target="blank">
     <img src="https://img.shields.io/badge/Discord-7389DC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://t.me/wolfy_42" target="blank">

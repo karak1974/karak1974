@@ -1,9 +1,5 @@
 <h1 align="center">Hobby coder/hacker, university school student</h1>
 
-    <a href="https://artixlinux.org/">
-        <img alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
-    </a>  
-
 ### Programming languages
 
 <p align="left"> 
